@@ -14,4 +14,5 @@ featured = false #default false
 showFullContent = false #defaut false
 readingTime = true #default true
 hideComments = true #default true
+draft = true #default false
 +++
